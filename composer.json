@@ -1,0 +1,25 @@
+{
+  "name": "unetway/percent",
+  "description": "Пакет для работы с процентами",
+  "keywords": [
+    "percent",
+    "diff percent",
+    "php"
+  ],
+  "homepage": "https://github.com/unetway/percent",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cherepanov Ilya",
+      "email": "support@unetway.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Unetway\\Percent\\": "src/"
+    }
+  }
+}
